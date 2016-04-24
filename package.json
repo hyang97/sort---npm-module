@@ -1,0 +1,11 @@
+{
+  "name": "npm_module_sort",
+  "version": "1.0.17",
+  "description": "arrays! sort! yay!",
+  "main": "driver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henry Yang <hyang97@g.ucla.edu>",
+  "license": "ISC"
+}
